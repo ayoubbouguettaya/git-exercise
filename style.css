@@ -1,0 +1,22 @@
+.input_container{
+    width: 500px;
+    margin: 200px auto 30px auto;
+    display: flex;
+}
+
+.input_container input{
+    width: 100%;
+}
+
+.todo_list{
+    width: 500px;
+    margin: 0 auto;
+}
+
+.todo_list li{
+    display: flex;
+}
+
+.checked{
+    text-decoration: line-through;
+}
